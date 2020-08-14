@@ -1,0 +1,77 @@
+Fri Jul 12 10:41:52 CLT 2019 -  TABLA IDTRXFAILS EXISTE 
+Fri Jul 12 10:41:53 CLT 2019 - (1)insertTrx:  2017-03-14 22:29:00.0@5 DE ABRIL@204.199997@Diesel@FLPZ68@930498@1@1@DIESEL@PetroPoint, 1 ,1
+Fri Jul 12 10:41:56 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:41:56 CLT 2019 - (1)insertTrx:  2017-03-16 10:19:00.0@5 DE ABRIL@290.100006@Diesel@4351@156887@2@1@DIESEL@PetroPoint, 1 ,1
+Fri Jul 12 10:41:56 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:41:57 CLT 2019 - (1)insertTrx:  2017-03-16 10:33:00.0@5 DE ABRIL@180.0@Diesel@CRXB75@459453@3@1@DIESEL@PetroPoint, 1 ,1
+Fri Jul 12 10:41:57 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:41:57 CLT 2019 - (1)insertTrx:  2017-03-16 10:40:00.0@5 DE ABRIL@24.5@Diesel@WX5084@1413143@4@2@ADBLUE@PetroPoint, 1 ,1
+Fri Jul 12 10:41:57 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:41:57 CLT 2019 - (1)insertTrx:  2017-03-16 10:42:00.0@5 DE ABRIL@164.899994@Diesel@CRWY79@503210@5@1@DIESEL@PetroPoint, 1 ,1
+Fri Jul 12 10:41:57 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:41:57 CLT 2019 - (1)insertTrx:  2017-03-16 10:44:00.0@5 DE ABRIL@26.4@Diesel@WX5084@1413143@6@2@ADBLUE@PetroPoint, 1 ,1
+Fri Jul 12 10:41:57 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:41:57 CLT 2019 - (1)insertTrx:  2017-03-16 10:45:00.0@5 DE ABRIL@37.700001@Diesel@WX5084@1413143@7@2@ADBLUE@PetroPoint, 1 ,1
+Fri Jul 12 10:41:57 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:41:57 CLT 2019 - (1)insertTrx:  2017-03-16 10:48:00.0@5 DE ABRIL@10.1@Diesel@WX5084@1413143@8@2@ADBLUE@PetroPoint, 1 ,1
+Fri Jul 12 10:41:57 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:41:57 CLT 2019 - (1)insertTrx:  2017-03-16 10:56:00.0@5 DE ABRIL@256.799988@Diesel@4361@314246@9@2@ADBLUE@PetroPoint, 1 ,1
+Fri Jul 12 10:41:57 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:41:57 CLT 2019 - (1)insertTrx:  2017-03-16 11:07:00.0@5 DE ABRIL@331.700012@Diesel@4349@244709@10@1@DIESEL@PetroPoint, 1 ,1
+Fri Jul 12 10:41:58 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:41:58 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 1@2017-03-10 16:47:00.0@0@42284308@0, 0 ,1
+Fri Jul 12 10:41:58 CLT 2019 - respuestas del servidor 3 : 1
+Fri Jul 12 10:41:58 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 2@2017-03-10 16:47:00.0@184280@2243800@8000, 0 ,1
+Fri Jul 12 10:41:58 CLT 2019 - respuestas del servidor 3 : 1
+Fri Jul 12 10:41:58 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 1@2017-03-14 21:43:00.0@0@42284308@0, 0 ,1
+Fri Jul 12 10:41:58 CLT 2019 - respuestas del servidor 3 : 1
+Fri Jul 12 10:41:58 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 2@2017-03-14 21:43:00.0@154330@1815700@8000, 0 ,1
+Fri Jul 12 10:41:58 CLT 2019 - respuestas del servidor 3 : 1
+Fri Jul 12 10:41:58 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 1@2017-03-14 22:28:00.0@0@42284308@0, 0 ,1
+Fri Jul 12 10:41:58 CLT 2019 - respuestas del servidor 3 : 1
+Fri Jul 12 10:41:58 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 2@2017-03-14 22:28:00.0@154330@1815700@8000, 0 ,1
+Fri Jul 12 10:41:58 CLT 2019 - respuestas del servidor 3 : 1
+Fri Jul 12 10:41:58 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 1@2017-03-14 22:33:00.0@0@42284308@0, 0 ,1
+Fri Jul 12 10:41:58 CLT 2019 - respuestas del servidor 3 : 1
+Fri Jul 12 10:41:58 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 2@2017-03-14 22:33:00.0@154320@1815600@8000, 0 ,1
+Fri Jul 12 10:41:59 CLT 2019 - respuestas del servidor 3 : 1
+Fri Jul 12 10:41:59 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 1@2017-03-15 10:56:00.0@0@42284308@0, 0 ,1
+Fri Jul 12 10:41:59 CLT 2019 - respuestas del servidor 3 : 1
+Fri Jul 12 10:41:59 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 2@2017-03-15 10:56:00.0@137950@1560700@8000, 0 ,1
+Fri Jul 12 10:41:59 CLT 2019 - respuestas del servidor 3 : 1
+Fri Jul 12 10:43:45 CLT 2019 - (1)insertTrx:  2017-03-14 22:29:00.0@5 DE ABRIL@204.199997@Diesel@FLPZ68@930498@1@1@DIESEL@PetroPoint, 1 ,1
+Fri Jul 12 10:43:46 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:43:46 CLT 2019 - (1)insertTrx:  2017-03-16 10:19:00.0@5 DE ABRIL@290.100006@Diesel@4351@156887@2@1@DIESEL@PetroPoint, 1 ,1
+Fri Jul 12 10:43:46 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:43:46 CLT 2019 - (1)insertTrx:  2017-03-16 10:33:00.0@5 DE ABRIL@180.0@Diesel@CRXB75@459453@3@1@DIESEL@PetroPoint, 1 ,1
+Fri Jul 12 10:43:46 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:43:46 CLT 2019 - (1)insertTrx:  2017-03-16 10:40:00.0@5 DE ABRIL@24.5@Diesel@WX5084@1413143@4@2@ADBLUE@PetroPoint, 1 ,1
+Fri Jul 12 10:43:46 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:43:46 CLT 2019 - (1)insertTrx:  2017-03-16 10:42:00.0@5 DE ABRIL@164.899994@Diesel@CRWY79@503210@5@1@DIESEL@PetroPoint, 1 ,1
+Fri Jul 12 10:43:47 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:43:47 CLT 2019 - (1)insertTrx:  2017-03-16 10:44:00.0@5 DE ABRIL@26.4@Diesel@WX5084@1413143@6@2@ADBLUE@PetroPoint, 1 ,1
+Fri Jul 12 10:43:47 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:43:47 CLT 2019 - (1)insertTrx:  2017-03-16 10:45:00.0@5 DE ABRIL@37.700001@Diesel@WX5084@1413143@7@2@ADBLUE@PetroPoint, 1 ,1
+Fri Jul 12 10:43:47 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:43:47 CLT 2019 - (1)insertTrx:  2017-03-16 10:48:00.0@5 DE ABRIL@10.1@Diesel@WX5084@1413143@8@2@ADBLUE@PetroPoint, 1 ,1
+Fri Jul 12 10:43:47 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:43:47 CLT 2019 - (1)insertTrx:  2017-03-16 10:56:00.0@5 DE ABRIL@256.799988@Diesel@4361@314246@9@2@ADBLUE@PetroPoint, 1 ,1
+Fri Jul 12 10:43:47 CLT 2019 - respuestas del servidor 1 : 1
+Fri Jul 12 10:43:47 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 1@2017-03-10 16:47:00.0@0@42284308@0, 0 ,1
+Fri Jul 12 10:43:47 CLT 2019 - respuestas del servidor 2 : 1
+Fri Jul 12 10:43:47 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 2@2017-03-10 16:47:00.0@184280@2243800@8000, 0 ,1
+Fri Jul 12 10:43:47 CLT 2019 - respuestas del servidor 2 : 1
+Fri Jul 12 10:43:47 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 1@2017-03-14 21:43:00.0@0@42284308@0, 0 ,1
+Fri Jul 12 10:43:47 CLT 2019 - respuestas del servidor 2 : 1
+Fri Jul 12 10:43:47 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 2@2017-03-14 21:43:00.0@154330@1815700@8000, 0 ,1
+Fri Jul 12 10:43:47 CLT 2019 - respuestas del servidor 2 : 1
+Fri Jul 12 10:43:47 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 1@2017-03-14 22:28:00.0@0@42284308@0, 0 ,1
+Fri Jul 12 10:43:48 CLT 2019 - respuestas del servidor 2 : 1
+Fri Jul 12 10:43:48 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 2@2017-03-14 22:28:00.0@154330@1815700@8000, 0 ,1
+Fri Jul 12 10:43:48 CLT 2019 - respuestas del servidor 2 : 1
+Fri Jul 12 10:43:48 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 1@2017-03-14 22:33:00.0@0@42284308@0, 0 ,1
+Fri Jul 12 10:43:48 CLT 2019 - respuestas del servidor 2 : 1
+Fri Jul 12 10:43:48 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 2@2017-03-14 22:33:00.0@154320@1815600@8000, 0 ,1
+Fri Jul 12 10:43:48 CLT 2019 - respuestas del servidor 2 : 1
+Fri Jul 12 10:43:48 CLT 2019 - (3)insertTrx:  19@5 DE ABRIL@DIESEL 1@2017-03-15 10:56:00.0@0@42284308@0, 0 ,1
+Fri Jul 12 10:43:48 CLT 2019 - respuestas del servidor 2 : 1

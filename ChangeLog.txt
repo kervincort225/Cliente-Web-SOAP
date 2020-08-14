@@ -1,0 +1,50 @@
+﻿
+***************************************************************************************************
+***                  FUNCIONALIDADES Y MODIFICACIONES DE LA VERSION v1.0.1.2                 ***
+***************************************************************************************************
+- 2019-06-27: KERVIN CORTEZ
+---------------------------------------------------------------------------------------------------
+1. FUNCIONALIDADES INCORPORADAS
+	--creacion de log 
+	--modificacion de switchea de parametros transchec 
+	--modificacion de switchea de parametros stockhec 
+
+2. FUNCIONALIDADES MODIFICADAS
+	--Modificacion descomentada de base de datos de desarrollo a produccion
+	
+3. FUNCIONALIDADES PENDIENTES
+
+4. BUGS AJUSTADOS
+
+5. BUGS CONOCIDOS PENDIENTES
+	
+6. INDICACIONES
+	
+
+
+
+
+***************************************************************************************************
+***                  FUNCIONALIDADES Y MODIFICACIONES DE LA VERSION v1.0.1.2             ***
+***************************************************************************************************
+- 2019-06-27: KERVIN CORTEZ
+---------------------------------------------------------------------------------------------------
+1. FUNCIONALIDADES INCORPORADAS
+	-- Metodo unificado InsertTrx: enviar datos de los clientes.
+
+2. FUNCIONALIDADES MODIFICADAS
+	--Modificacion descomentada de base de datos de desarrollo a produccion
+	
+3. FUNCIONALIDADES PENDIENTES
+	--creacion de log 
+	--modificacion de switchea de parametros transchec 
+	--modificacion de switchea de parametros stockhec 
+4. BUGS AJUSTADOS
+
+5. BUGS CONOCIDOS PENDIENTES
+	
+6. INDICACIONES
+
+
+
+

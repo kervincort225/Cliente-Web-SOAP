@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://200.27.62.76:52324/WSKC/Servicio?wsdl" uri="xml-resources/web-service-references/Servicio/wsdl/200.27.62.76_52324/WSKC/Servicio.wsdl"/>
+    <system systemId="http://200.27.62.76:52324/WSKC/Servicio?xsd=1" uri="xml-resources/web-service-references/Servicio/wsdl/200.27.62.76_52324/WSKC/Servicio.xsd_1.xsd"/>
+</catalog>
